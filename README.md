@@ -14,3 +14,8 @@ print("Hi there")
 
 print("Value added")
 print("Gloud cmd")
+
+# Microsoft Azure
+'''py
+print("Hello Microsoft")
+'''
